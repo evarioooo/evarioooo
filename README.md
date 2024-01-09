@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.evarioo.de" target="_blank"><img src="https://media.evarioo.de/github/github-logo.png" width="493" /></a></p>
+
 ### Hi there 👋
 
 Hello, my name is Alexander. I am 33 years young and come from Germany. I develop with passion and dedication in various programming languages.
@@ -7,5 +9,3 @@ Hello, my name is Alexander. I am 33 years young and come from Germany. I develo
 - 💬 Ask me about ...
 - 📫 How to reach me: [mail](mailto:info@evarioo.de) [evarioo discord server](https://discord.com/invite/xAnwrrN9AT)
 - ⚡ Fun fact: Initially, PHP was the abbreviation for Personal Home Page.
-
-<p align="center"><a href="https://www.evarioo.de" target="_blank"><img src="https://media.evarioo.de/github/github-logo.png" width="493" /></a></p>
