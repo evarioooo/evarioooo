@@ -3,7 +3,7 @@
 <p align="center">
 <a href="mailto:info@evarioo.de?subject=Contact about github.com/evarioooo"><img src="https://img.shields.io/static/v1?label=E-Mail&message=info@evarioo.de&color=ffba00&style=for-the-badge" alt="Contact evarioo" /></a>
 <a href="https://discord.com/invite/xAnwrrN9AT"><img src="https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00" alt="Discord evarioo" /></a>
-<a href="mailto://info@evarioo.de"><img src="https://img.shields.io/github/followers/evarioooo?style=for-the-badge&label=Fans&color=ffba00" alt="Contact evarioo" /></a>
+<img src="https://img.shields.io/github/followers/evarioooo?style=for-the-badge&label=Fans&color=ffba00" alt="Github fans evarioo" />
 </p>
 
 ### Hello there 🌻
