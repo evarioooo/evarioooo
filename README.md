@@ -19,4 +19,4 @@ My name is Alexander. I am 33 years young and come from Germany. I develop with 
 
 - email: hello[aet]evarioo.de
 - discord: nick
-- whatsapp: 015510151811
+- whatsapp: ‪+49 1515 6182667‬
