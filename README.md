@@ -11,7 +11,12 @@
 My name is Alexander. I am 33 years young and come from Germany. I develop with passion and dedication in various programming languages.
 
 - 🔭 I’m currently working on evarioo
-- 🌱 I’m currently learning laravel
-- 💬 Ask me about ...
-- 📫 How to reach me: [mail](mailto:hello@evarioo.de) [evarioo discord server](https://discord.com/invite/9qqKZuAbsa)
+- 🌱 I’m currently learning laravel, disccordjs
+- 💬 Ask me about my life
 - ⚡ Fun fact: Initially, PHP was the abbreviation for Personal Home Page.
+
+📫 Would you like to contact me? Try here
+
+- email: hello[aet]evarioo.de
+- discord: nick
+- whatsapp: 015510151811
