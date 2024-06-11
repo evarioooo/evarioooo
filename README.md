@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="mailto:hello@evarioo.de?subject=Kontakt%20%C3%BCber%20GitHub">
-<img src="[https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00](https://img.shields.io/badge/hello%40evarioo.de-me?style=for-the-badge&logo=maildotru&labelColor=%23ffba13&color=grey)" alt="Discord evarioo" />
+<img src="https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00" alt="Discord evarioo" />
 </a>
 <a href="https://discord.com/invite/9qqKZuAbsa">
 <img src="https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00" alt="Discord evarioo" />
