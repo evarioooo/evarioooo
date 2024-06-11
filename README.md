@@ -2,12 +2,11 @@
 
 <p align="center">
 <a href="mailto:hello@evarioo.de?subject=Kontakt%20%C3%BCber%20GitHub">
-<img src="https://img.shields.io/badge/hello%40evarioo.de-me?style=for-the-badge&logo=maildotru&labelColor=%23ffba13&color=grey" alt="Discord evarioo" />
+<img src="https://img.shields.io/badge/hello%40evarioo.de-me?style=for-the-badge&logo=maildotru&labelColor=%23ffba13&color=grey" alt="evarioo on discord" />
 </a>
-<a href="https://discord.com/invite/9qqKZuAbsa">
-<img src="https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00" alt="Discord evarioo" />
+<a href="https://x.com/evarioo_x">
+<img src="https://img.shields.io/badge/evarioo_x-me?style=for-the-badge&logo=x&labelColor=%23ffba13&color=grey" alt="evarioo on x" />
 </a>
-<img src="https://img.shields.io/github/followers/evarioooo?style=for-the-badge&label=Fans&color=ffba00" alt="Github fans evarioo" />
 </p>
 
 ### Hello there 🌻
