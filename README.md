@@ -1,8 +1,12 @@
 <p align="center"><a href="https://www.evarioo.de" target="_blank"><img src="https://i.ibb.co/sPVdY46/github-readme-logo.png" width="493" /></a></p>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/hello%40evarioo.de-me?style=for-the-badge&logo=maildotru&labelColor=%23ffba13&color=grey">](mailto:hello@evarioo.de?subject=Kontakt%20%C3%BCber%20GitHub)
-<a href="https://discord.com/invite/9qqKZuAbsa"><img src="https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00" alt="Discord evarioo" /></a>
+<a href="mailto:hello@evarioo.de?subject=Kontakt%20%C3%BCber%20GitHub">
+<img src="[https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00](https://img.shields.io/badge/hello%40evarioo.de-me?style=for-the-badge&logo=maildotru&labelColor=%23ffba13&color=grey)" alt="Discord evarioo" />
+</a>
+<a href="https://discord.com/invite/9qqKZuAbsa">
+<img src="https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00" alt="Discord evarioo" />
+</a>
 <img src="https://img.shields.io/github/followers/evarioooo?style=for-the-badge&label=Fans&color=ffba00" alt="Github fans evarioo" />
 </p>
 
