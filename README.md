@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.evarioo.de" target="_blank"><img src="https://i.ibb.co/sPVdY46/github-readme-logo.png" width="493" /></a></p>
 
 <p align="center">
-<a href="mailto:hello@evarioo.de?subject=Contact about github.com/evarioooo"><img src="https://img.shields.io/static/v1?label=E-Mail&message=info@evarioo.de&color=ffba00&style=for-the-badge" alt="Contact evarioo" /></a>
+[<img src="https://img.shields.io/badge/hello%40evarioo.de-me?style=for-the-badge&logo=maildotru&labelColor=%23ffba13&color=grey">](mailto:hello@evarioo.de?subject=Kontakt%20%C3%BCber%20GitHub)
 <a href="https://discord.com/invite/9qqKZuAbsa"><img src="https://img.shields.io/discord/1180128790580572272?style=for-the-badge&label=Discord&color=ffba00" alt="Discord evarioo" /></a>
 <img src="https://img.shields.io/github/followers/evarioooo?style=for-the-badge&label=Fans&color=ffba00" alt="Github fans evarioo" />
 </p>
@@ -20,10 +20,10 @@ My name is Alexander. I am 33 years young and come from Germany. I develop with 
 
 📫 Would you like to contact me? Try here
 
-- ✉️ email: hello[aet]evarioo.de
-- 💬 discord chat: h4zebust3r90
-- 💬 discord server: -
-- 📱 whatsapp: ‪+49 1515 6182667‬
+[<img src="https://img.shields.io/badge/h4zebust3r90-me?style=for-the-badge&logo=telegram&logoColor=white&labelColor=%23ffba13&color=grey">](https://t.me/h4zebust3r90)<br>
+[<img src="https://img.shields.io/badge/h4zebust3r90-me?style=for-the-badge&logo=discord&logoColor=white&labelColor=%23ffba13&color=grey">](https://discord.gg/9qqKZuAbsa)<br>
+[<img src="https://img.shields.io/badge/evarioo_x-me?style=for-the-badge&logo=x&labelColor=%23ffba13&color=grey">](https://x.com/evarioo_x)<br>
+[<img src="https://img.shields.io/badge/hello%40evarioo.de-me?style=for-the-badge&logo=maildotru&labelColor=%23ffba13&color=grey">](mailto:hello@evarioo.de?subject=Kontakt%20%C3%BCber%20GitHub)
 
 Use my self hosted services likes yours <3
 
